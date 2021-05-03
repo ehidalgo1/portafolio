@@ -2,12 +2,12 @@
 
 Portafolio, es un proyecto web para que un usuario pueda crear un portafolio
 
-## Installation
+## Installación
 
-Requisitos principales:
+### Requisitos principales:
 - NodeJS (Version más reciente)
 
-Inicio de proyecto:
+### Inicio de proyecto:
 
 Clonar el proyecto e ir a la ruta del proyecto.
 
