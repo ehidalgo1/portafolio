@@ -1,6 +1,6 @@
 # Descripción
 
-Portafolio, es un proyecto web para que un usuario pueda crear un portafolio
+Proyecto backend para que un usuario pueda crear un portafolio
 
 ## Instalación
 
