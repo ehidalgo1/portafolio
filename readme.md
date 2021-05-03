@@ -2,10 +2,11 @@
 
 Portafolio, es un proyecto web para que un usuario pueda crear un portafolio
 
-## Installación
+## Instalación
 
 ### Requisitos principales:
-- NodeJS (Version más reciente)
+
+* NodeJS (Version más reciente)
 
 ### Inicio de proyecto:
 
@@ -21,5 +22,9 @@ npm install
 1- Ejecución del proyecto
 
 ```bash
-app\server\index.js
+node app\server\index.js
 ```
+
+## Contribuidores
+
+* ehidalgo1
