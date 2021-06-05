@@ -16,6 +16,8 @@ Ejecutar los siguientes comandos
 
 1- instalación de las dependencias
 
+* Para la instalación de dependencias se recomienda ejecutar desde ventana de comandos con permisos de administrador
+
 ```bash
 npm install
 ```
