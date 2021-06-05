@@ -6,11 +6,11 @@ Proyecto backend para que un usuario pueda crear un portafolio
 
 ### Requisitos principales:
 
-* NodeJS (Version más reciente)
+* NodeJS versión v10.21.x o superior
 
 ### Inicio de proyecto:
 
-Clonar el proyecto e ir a la ruta del proyecto.
+Clonar e ir a la ruta del proyecto.
 
 Ejecutar los siguientes comandos 
 
